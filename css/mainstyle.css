@@ -1,0 +1,135 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: black;
+
+}
+.header
+{
+    background-image: url("../images/bg1.jpg");
+    background-repeat: no-repeat;
+    height: 210px;
+    background-size: cover;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.header .icon 
+{
+    float: right;
+    clear: both;
+    margin-right: 60px;
+    margin-top: 75px;
+}
+.navbar
+{
+    background-color: black;
+    border-top: solid 2px #DDD;
+    padding: 5px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar a
+{
+    color: white;
+    padding-right: 20px;
+    text-decoration: none;
+    height: 100%;
+    padding: 6px;
+}
+.navbar a:hover
+{
+    background-color: rgba(15, 163, 221, 0.808);
+}
+.contaner
+{
+    width: 80%;
+    background-color: #DDD;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.slider img
+{
+    width: 100%;
+}
+.contaner h2
+{
+    color: rgba(15, 163, 221, 0.808);
+    border-bottom: solid 1px #9d9999;
+}
+.contaner p
+{ 
+    color: #494747;
+    font-size: 20px;
+}
+.body
+{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.body img
+{
+    padding: 26px;
+    width: 43%;
+}
+.footer
+{
+    padding-bottom: 20px;
+}
+.main
+{
+    width: 70%;
+    float: left;
+}
+.main ul
+{
+    color: #494747;
+}
+.main .car
+{
+   padding: 5px;
+}
+.main .car img
+{
+    outline: solid 2px white;
+    padding: 5px;
+    width: 40%;
+    padding: 6px;
+    margin-left: 50px;
+}
+.sidepar
+{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+}
+.sidepar h5
+{
+    color: #f96d07;
+    margin-bottom: 0px;
+}
+.sidepar h6
+{
+    color: rgba(15, 163, 221, 0.808);
+    margin-top: 5px;
+}
+.copyrigth
+{
+    clear: both;
+    text-align: center;
+    line-height: 1px; 
+    padding: 20px; 
+    font-size: 16px;
+    border-top: solid 1px #9d9999;
+}
+
+
+
+
+
